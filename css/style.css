@@ -1,1 +1,24 @@
-/* put custom styles in this file */
+body{
+	text-align: center;
+}
+
+form{
+	margin: 40px 20px;
+}
+input{
+	color: #787878; 
+}
+
+a {
+	display: block;
+	margin: 20px;
+	text-align: left;
+	font-size: 1.2em;
+	text-decoration: none;
+	color: #4B0082;
+}
+
+a:hover{
+	font-weight: bold;
+	text-decoration: none;
+}
